@@ -9,14 +9,8 @@ export default function App() {
         <Weather defaultCity="Johannesburg" />
         <footer>
           This project is was coded by{" "}
-          <a href="https://github.com/Fifla47" target="_blank">
-            Refilwe Phelwane
-          </a>{" "}
-          and is{" "}
-          <a
-            href="https://github.com/Fifla47/react-weather-app"
-            target="_blank"
-          >
+          <a href="https://github.com/Fifla47">Refilwe Phelwane</a> and is{" "}
+          <a href="https://github.com/Fifla47/react-weather-app">
             open-sourced on Github
           </a>{" "}
           and hosted on Netlify
