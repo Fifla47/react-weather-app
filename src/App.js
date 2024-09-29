@@ -18,7 +18,8 @@ export default function App() {
             target="_blank"
           >
             open-sourced on Github
-          </a>
+          </a>{" "}
+          and hosted on <a href="#">Netlify</a>
         </footer>
       </div>
     </div>
