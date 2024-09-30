@@ -14,9 +14,7 @@ export default function App() {
             open-sourced on Github
           </a>{" "}
           and hosted on{" "}
-          <a href="https://illustrious-salmiakki-afe18a.netlify.app/">
-            Netlify
-          </a>
+          <a href="https://steady-chebakia-5f62c2.netlify.app/">Netlify</a>
         </footer>
       </div>
     </div>
